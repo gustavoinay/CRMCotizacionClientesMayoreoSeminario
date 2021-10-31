@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\WebSites\ffacsaportal\DesktopModules\Cotizacion</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_LocalResources/Edit.ascx.resx">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="App_LocalResources/Settings.ascx.resx">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="App_LocalResources/View.ascx.resx">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="bin/ClientDependency.Core.dll">
+      <publishTime>05/18/2018 07:46:02</publishTime>
+    </File>
+    <File Include="bin/Cotizacion.dll">
+      <publishTime>06/30/2019 15:53:20</publishTime>
+    </File>
+    <File Include="bin/Cotizacion.pdb">
+      <publishTime>06/30/2019 15:53:20</publishTime>
+    </File>
+    <File Include="bin/CountryListBox.dll">
+      <publishTime>09/26/2018 05:09:26</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Data.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:25</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Office.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Pdf.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Printing.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.RichEdit.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:50</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.Resources.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:43</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:16</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.v17.2.dll">
+      <publishTime>06/19/2019 17:12:25</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Images.v17.2.dll">
+      <publishTime>06/19/2019 17:12:27</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Office.v17.2.Core.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Pdf.v17.2.Core.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Printing.v17.2.Core.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/DevExpress.RichEdit.v17.2.Core.dll">
+      <publishTime>06/19/2019 17:12:50</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxThemes.v17.2.dll">
+      <publishTime>06/19/2019 17:12:18</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.Resources.v17.2.dll">
+      <publishTime>06/19/2019 17:12:43</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.v17.2.dll">
+      <publishTime>06/19/2019 17:12:16</publishTime>
+    </File>
+    <File Include="bin/DotNetNuke.dll">
+      <publishTime>09/26/2018 05:09:42</publishTime>
+    </File>
+    <File Include="bin/DotNetNuke.Instrumentation.dll">
+      <publishTime>09/26/2018 05:09:26</publishTime>
+    </File>
+    <File Include="bin/DotNetNuke.log4net.dll">
+      <publishTime>09/26/2018 05:09:26</publishTime>
+    </File>
+    <File Include="bin/DotNetNuke.Services.Syndication.dll">
+      <publishTime>09/26/2018 05:09:26</publishTime>
+    </File>
+    <File Include="bin/DotNetNuke.Web.Client.dll">
+      <publishTime>09/26/2018 05:09:26</publishTime>
+    </File>
+    <File Include="bin/DotNetNuke.WebControls.dll">
+      <publishTime>09/26/2018 05:06:04</publishTime>
+    </File>
+    <File Include="bin/DotNetNuke.WebUtility.dll">
+      <publishTime>09/26/2018 05:09:32</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Data.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:27</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Office.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Pdf.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Printing.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.RichEdit.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:50</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.Resources.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:43</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:16</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>01/03/2011 14:16:38</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Data.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:27</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Office.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Pdf.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Printing.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.RichEdit.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:50</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.Resources.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:43</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:16</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.Contrib.FastVectorHighlighter.dll">
+      <publishTime>09/26/2018 05:06:04</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.dll">
+      <publishTime>09/26/2018 05:06:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationBlocks.Data.dll">
+      <publishTime>09/26/2018 05:06:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/18/2017 13:57:10</publishTime>
+    </File>
+    <File Include="bin/PetaPoco.dll">
+      <publishTime>09/26/2018 05:06:04</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Data.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:27</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Office.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Pdf.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Printing.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:37</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.RichEdit.v17.2.Core.resources.dll">
+      <publishTime>06/19/2019 17:12:50</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.Resources.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:43</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.v17.2.resources.dll">
+      <publishTime>06/19/2019 17:12:16</publishTime>
+    </File>
+    <File Include="bin/SchwabenCode.QuickIO.dll">
+      <publishTime>02/15/2015 13:53:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/29/2014 21:02:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/29/2014 21:04:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/29/2014 21:04:06</publishTime>
+    </File>
+    <File Include="BuildScripts/ModulePackage.targets">
+      <publishTime>06/30/2019 14:21:39</publishTime>
+    </File>
+    <File Include="BuildScripts/MSBuild.Community.Tasks.Targets">
+      <publishTime>06/30/2019 14:21:39</publishTime>
+    </File>
+    <File Include="Cotizacion.dnn">
+      <publishTime>06/30/2019 14:21:39</publishTime>
+    </File>
+    <File Include="Documentation/Documentation.css">
+      <publishTime>06/30/2019 15:11:40</publishTime>
+    </File>
+    <File Include="Documentation/Documentation.html">
+      <publishTime>06/30/2019 15:11:40</publishTime>
+    </File>
+    <File Include="Edit.ascx">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="License.txt">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="module.css">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/30/2019 14:21:39</publishTime>
+    </File>
+    <File Include="Providers/DataProviders/SqlDataProvider/00.00.01.SqlDataProvider">
+      <publishTime>06/30/2019 14:21:39</publishTime>
+    </File>
+    <File Include="Providers/DataProviders/SqlDataProvider/Uninstall.SqlDataProvider">
+      <publishTime>06/30/2019 14:21:39</publishTime>
+    </File>
+    <File Include="ReleaseNotes.txt">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="Settings.ascx">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="View.ascx">
+      <publishTime>06/30/2019 15:11:41</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/30/2019 15:53:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

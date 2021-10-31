@@ -1,0 +1,11 @@
+C:\WebSites\ffacsaportal\bin\Cotizacion.dll.config
+C:\WebSites\ffacsaportal\bin\Cotizacion.dll
+C:\WebSites\ffacsaportal\bin\Cotizacion.pdb
+C:\WebSites\ffacsaportal\DesktopModules\Cotizacion\obj\Release\Cotizacion.dll.licenses
+C:\WebSites\ffacsaportal\DesktopModules\Cotizacion\obj\Release\Cotizacion.csproj.CoreCompileInputs.cache
+C:\WebSites\ffacsaportal\DesktopModules\Cotizacion\obj\Release\Cotizacion.csproj.CopyComplete
+C:\WebSites\ffacsaportal\DesktopModules\Cotizacion\obj\Release\Cotizacion.dll
+C:\WebSites\ffacsaportal\DesktopModules\Cotizacion\obj\Release\Cotizacion.pdb
+C:\WebSites\ffacsaportal\DesktopModules\Cotizacion\obj\Release\Cotizacion.csprojAssemblyReference.cache
+C:\WebSites\ffacsaportal\DesktopModules\Cotizacion\obj\Release\CotizacionHabitat.resources
+C:\WebSites\ffacsaportal\DesktopModules\Cotizacion\obj\Release\Cotizacion.csproj.GenerateResource.cache
